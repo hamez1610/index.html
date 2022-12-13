@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Page Title</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-light navbar-light"><img src="https://onmessage.nd.edu/assets/188821/fullsize/athletics_monogram1.jpg" width="60" class="mr-2"><a class="navbar-brand" href="#">Principles of Computing: Group 1</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-body" aria-controls="navbar-body" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+      <div class="collapse navbar-collapse" id="navbar-body">
+        <ul class="navbar-nav mr-auto"></ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a class="nav-link" href="#">Geography</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Deaths/Injured</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Trend</a></li>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1 class="display-4">Geography</h1>
+      </div>
+    </div>
+    <div class="container" id="bsr-wrapper">
+      <h1>Cases Per Month</h1>
+      <picture>
+        <source srcset="https://unsplash.it/400/300" type="image/svg+xml"><img src="https://unsplash.it/400/300" class="mx-auto d-block" alt="Responsive image">
+      </picture>
+      <p>The biggest takeaway from this line chart is that the most mass shooting events appear to occur during summer months. More specifically, between May-August.</p>
+      <h1>Incidents per State (Map)</h1>
+      <picture>
+        <source srcset="https://unsplash.it/400/300" type="image/svg+xml"><img src="https://unsplash.it/400/300" class="mx-auto d-block" alt="Responsive image">
+      </picture>
+      <p>Looking at this map, we can see that Illinois, California, and Texas have had the most mass shooting events. Diving further, if you look at all the states that have had more than 100 incidents since 2018, you will see that they all have major cities within them.</p>
+      <h1>Incidents per State (Bar Graph)</h1>
+      <picture>
+        <source srcset="https://unsplash.it/400/300" type="image/svg+xml"><img src="https://unsplash.it/400/300" class="mx-auto d-block" alt="Responsive image">
+      </picture>
+      <p>This bar graph contains the same data as the map; however, it better illistrates the magnitude in which some states experience more mass shootings than others.</p>
+      <h1>Total Affect per State</h1>
+      <picture>
+        <source srcset="https://unsplash.it/400/300" type="image/svg+xml"><img src="https://unsplash.it/400/300" class="mx-auto d-block" alt="Responsive image">
+      </picture>
+      <p>It is no surpise that the states with the most mass shootings (Illinois, California, and Texas), are also the states that have had the most people affected by them.</p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
