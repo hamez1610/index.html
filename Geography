@@ -14,7 +14,7 @@
         <ul class="navbar-nav ml-auto">
           <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
           <li class="nav-item"><a class="nav-link" href="Geography.html">Geography</a></li>
-          <li class="nav-item"><a class="nav-link" href="Deaths/Injured.html">Deaths/Injured</a></li>
+          <li class="nav-item"><a class="nav-link" href="Deaths_Injuries.html">Deaths/Injured</a></li>
           <li class="nav-item"><a class="nav-link" href="Trend.html">Trend</a></li>
           </li>
         </ul>
